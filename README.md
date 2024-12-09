@@ -10,7 +10,7 @@ Vinícius Santana Gato.
 
 # Projeto de Sistema de Doação e Script Python
 
-Este repositório contém dois arquivos principais: um programa escrito em **Prolog** para gerenciar doações e um script **Python** para processamento de dados. Abaixo, você encontrará instruções claras e detalhadas para executar ambos os sistemas em sua máquina.
+Este repositório contém três arquivos principais: um programa escrito em **Prolog** para gerenciar doações, um script **Python** para processamento de dados e o pdf contendo as respostas das demais questões da lista. Abaixo, você encontrará instruções claras e detalhadas para executar os sistemas em sua máquina.
 
 ---
 
