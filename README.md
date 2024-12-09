@@ -1,3 +1,12 @@
+# Grupo:
+Guilherme Teles da Costa Moura,
+José Santarem Gomes,
+Letícia Souza de Araújo,
+Sarah Paulina Cruz de Arruda,
+Victor da Silva Dantas,
+Vinícius Santana Gato.
+
+---
 
 # Projeto de Sistema de Doação e Script Python
 
